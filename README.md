@@ -1,5 +1,3 @@
-# Sales Funnel Analysis
-
 # E-Commerce Data Analytics: End-to-End SQL Project
 
 This project demonstrates a complete data analytics workflow using e-commerce user event data. Using SQL in Google BigQuery, I analyzed the sales funnel, marketing channel performance, and key financial metrics to derive actionable business insights.
